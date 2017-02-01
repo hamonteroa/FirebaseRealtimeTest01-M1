@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735876630141",
+    "firebase_url": "https://fir-realtimetest01.firebaseio.com",
+    "project_id": "fir-realtimetest01",
+    "storage_bucket": "fir-realtimetest01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735876630141:android:5c119d33c747f77d",
+        "android_client_info": {
+          "package_name": "com.hamonteroa.firebaserealtimetest01_m1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735876630141-jmdh0jnhpag41ops2tg5ml3jt7cq13ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmIEWyAT31n3feBt0oQ2c8NVdf1Al9ntA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
